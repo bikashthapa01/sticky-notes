@@ -9,7 +9,7 @@ Well This idea popup into my mind this morning (21/12/17). Since 2018 is near an
 	2. Goals that are completed (For Motivation)
 - Features 
 	1. Add New Goals
-	2. Check new Goals
+	2. Check Completed Goals
 	3. ....
 
 # for future
